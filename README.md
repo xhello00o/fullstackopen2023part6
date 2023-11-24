@@ -6,7 +6,12 @@ There are 2 projects in this part. The first one is a simple counter which uses 
 
 For more details, click [here](https://fullstackopen.com/en/part6/flux_architecture_and_redux)
 
-### Flux-architecture and Redux ( Exercise 6.1 - 6.8 )
+#### Exercises
+- Exercise 6.1 - 6.2: [```[main]```](https://github.com/xhello00o/fullstackopen2023part6/tree/main)
+- Exercises 6.3 - 6.19: [```[part6.3_redux_anecdote]```](https://github.com/xhello00o/fullstackopen2023part6/tree/part6.3_redux_anecdote/)
+- Exercises 6.20 - 6.24: [```[part6.20_query_anecdote]```](https://github.com/xhello00o/fullstackopen2023part6/blob/part6.20_query_anecdote)
+
+## Flux-architecture and Redux ( Exercise 6.1 - 6.8 )
 The use ```createStore``` of ```redux``` to store the states while ```useSelector``` and ```useDispatch``` from ```react-redux``` to share and change these states across different components . Exercise 6.1 - 6.2 created a simple counter that can be found in the [```[main]```](https://github.com/xhello00o/fullstackopen2023part6/tree/main) branch. Whereas, exercise 6.3 onwards created an Anecdote Voting App that can be found in the [```[part6.3_redux_anecdote]```](https://github.com/xhello00o/fullstackopen2023part6/tree/part6.3_redux_anecdote/) branch. 
 
 ** Note that the Anecdote Voting App made in exercise 6.3 is continued on in the other exercises further down. Therefore, what you see is the final state of the Application.
